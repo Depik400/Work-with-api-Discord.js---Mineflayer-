@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.3.0",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "js": "^0.1.0",
+    "mineflayer": "^3.6.0",
+    "mineflayer-auto-eat": "^2.0.0",
+    "mineflayer-pathfinder": "^1.6.1",
+    "mineflayer-pvp": "^1.0.2",
+    "node-fetch": "^2.6.1",
+    "prismarine-viewer": "^1.19.3",
+    "request": "^2.88.2",
+    "some-random-cat": "^2.2.1",
+    "translate": "^1.2.3",
+    "yt-search": "^2.8.0",
+    "ytdl": "^1.4.1"
+  }
+}
